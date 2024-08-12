@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/features/userSlice.js", "app/auth/Home.jsx", "app/services/api.js", "app/_layout.jsx", "app/(tabs)/(home)/ChatScreen.jsx", "app/(tabs)/(profile)/ProfileScreen.jsx", "app/features/chatSlice.ts"  ]
 }
